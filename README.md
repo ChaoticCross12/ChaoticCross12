@@ -6,22 +6,22 @@ I enjoy spending my free time working on technical projects, contributin to repo
 
 
 - 🔭 I’m currently working on:
-        \nA hand gesture reading ML project.
-        Rebuilding the website of IEEE UTD.
+        -A hand gesture reading ML project.
+        -Rebuilding the website of IEEE UTD.
         
 - 🌱 I’m currently learning:
-        Amazon Web Services.
-        Tensorflow and Artificial Intelligence.
+        -Amazon Web Services.
+        -Tensorflow and Artificial Intelligence.
         
 - 👯 I’m looking to collaborate on:
-        Anything CS related!
+        -Anything CS related!
         
 - 🤔 I’m looking for help with:
-        Anything CS related again!
+        -Anything CS related again!
         
 - 📫 How to reach me:
-        mta180003@utdallas.edu
-        https://www.linkedin.com/in/meah-ahmed/
+        -mta180003@utdallas.edu
+        -https://www.linkedin.com/in/meah-ahmed/
         
 - ⚡ Fun fact:
-        I love playing the piano but I am no good at it :(
+        -I love playing the piano but I am no good at it :(
