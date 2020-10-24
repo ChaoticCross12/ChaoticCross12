@@ -1,5 +1,5 @@
 ### Hi there 👋
-``
+
 I am Meah Tahmeed Ahmed. Computer Science Honors Scholar at The University of Texas at Dallas. I am passionate about Machine Learning and Cyber Security.
 I enjoy spending my free time working on technical projects, contributin to repos, playing piano and reading philosophy.
 
