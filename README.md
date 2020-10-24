@@ -6,7 +6,7 @@ I enjoy spending my free time working on technical projects, contributin to repo
 
 
 - 🔭 I’m currently working on:
-        A hand gesture reading ML project.
+        \nA hand gesture reading ML project.
         Rebuilding the website of IEEE UTD.
         
 - 🌱 I’m currently learning:
