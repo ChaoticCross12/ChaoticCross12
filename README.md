@@ -19,7 +19,6 @@ I enjoy spending my free time working on technical projects, contributin to repo
 - 🤔 I’m looking for help with:
         Anything CS related again!
         
-- 💬 Ask me about ...
 - 📫 How to reach me:
         mta180003@utdallas.edu
         https://www.linkedin.com/in/meah-ahmed/
