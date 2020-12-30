@@ -6,12 +6,11 @@ I enjoy spending my free time working on technical projects, contributin to repo
 
 
 - 🔭 I’m currently working on:
-        -A hand gesture reading ML project.
-        -Rebuilding the website of IEEE UTD.
+        -Building an NLP Model to determine sentiment of movie reviews
         
 - 🌱 I’m currently learning:
         -Amazon Web Services.
-        -Tensorflow and Artificial Intelligence.
+        -Artificial Intelligence.
         
 - 👯 I’m looking to collaborate on:
         -Anything CS related!
