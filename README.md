@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Meah Tahmeed Ahmed. Computing Scholar at The University of Texas at Dallas. I am passionate about Machine Learning and Cyber Security.
+I am Meah Tahmeed Ahmed. Computing Scholar at <b>The University of Texas at Dallas</b>. I am passionate about Machine Learning and Cyber Security.
 I enjoy spending my free time working on technical projects, contributin to repos, playing piano and reading philosophy.
 
 
