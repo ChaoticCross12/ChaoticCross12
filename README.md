@@ -4,7 +4,7 @@ I am <b>Meah Tahmeed Ahmed</b>. Computing Scholar at <b>The University of Texas 
 I enjoy spending my free time working on technical projects, playing piano and reading philosophy.
 
 
-## ⚙️ My Stack
+### ⚙️ My Stack
 
 ![badge-python](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
 ![badge-java](https://img.shields.io/badge/code-java-f6c819?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
