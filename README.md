@@ -19,24 +19,24 @@ I enjoy spending my free time working on technical projects, playing piano and r
 
 
 
-### - 🔭 I’m currently working on:
+### 🔭 I’m currently working on:
 
        Building a personal website!
 
-### - 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
        
        Amazon Web Services
        Artificial Intelligence
 
-### - 👯 I’m looking to collaborate on:
+### 👯 I’m looking to collaborate on:
         
         Building an AR Project!
 
-### - 📫 How to reach me:
+### 📫 How to reach me:
 
        meah.tahmeed.ahmed@gmail.com
        https://www.linkedin.com/in/meah-ahmed/        
 
-### - ⚡ Fun fact:
+### ⚡ Fun fact:
         
         I love playing the piano but I am no good at it :(
