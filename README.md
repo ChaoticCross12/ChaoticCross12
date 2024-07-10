@@ -21,16 +21,17 @@ I enjoy spending my free time working on technical projects, playing piano and r
 
 ### 🔭 I’m currently working on:
 
-       Building a personal website!
+       Fuzz Testing
 
 ### 🌱 I’m currently learning:
        
-       Amazon Web Services
-       Artificial Intelligence
+       Static Analysis
+       Fuzzing Smart Contracts
+       Fuzzing Embedded Systems
 
 ### 👯 I’m looking to collaborate on:
         
-        Building an AR Project!
+        Anything interesting!
 
 ### 📫 How to reach me:
 
