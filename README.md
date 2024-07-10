@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is <b>Meah Tahmeed Ahmed</b>. Computing Scholar at <b>The University of Texas at Dallas</b>. I am passionate about Machine Learning and Cyber Security.
-I enjoy spending my free time working on technical projects, playing piano and reading philosophy.
+I'm <b>Meah Tahmeed Ahmed</b>. A CS PhD Student at The University of Texas at Dallas. My research focuses on Software Security (dynamic analysis) and I mainly code in C these days :)
 
 
 ### ⚙️ My Stack
